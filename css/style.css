@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap');
+
+.black{
+    background-color: black;
+}
+
+.grey{
+    background-color: #383838;
+}
+
+.navbar{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand{
+    font-family: 'Luxurious Roman', cursive;
+    font-weight: 200;
+}
+
+.fs-1{
+    font-family: 'Luxurious Roman', cursive;
+}
+
+.fs-6{
+    font-family: 'Roboto', sans-serif;
+}
